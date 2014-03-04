@@ -25,6 +25,7 @@
 		8F22104218C654CF003EAFBF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8F22101A18C654CE003EAFBF /* UIKit.framework */; };
 		8F22104A18C654CF003EAFBF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8F22104818C654CF003EAFBF /* InfoPlist.strings */; };
 		8F22104C18C654CF003EAFBF /* SlashTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F22104B18C654CF003EAFBF /* SlashTests.m */; };
+		8F22105618C655E1003EAFBF /* cat.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F22105518C655E1003EAFBF /* cat.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,7 @@
 		8F22104718C654CF003EAFBF /* SlashTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SlashTests-Info.plist"; sourceTree = "<group>"; };
 		8F22104918C654CF003EAFBF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8F22104B18C654CF003EAFBF /* SlashTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SlashTests.m; sourceTree = "<group>"; };
+		8F22105518C655E1003EAFBF /* cat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,6 +135,7 @@
 				8F22103418C654CE003EAFBF /* MyScene.m */,
 				8F22103618C654CE003EAFBF /* Spaceship.png */,
 				8F22103818C654CE003EAFBF /* Images.xcassets */,
+				8F22105518C655E1003EAFBF /* cat.png */,
 				8F22101F18C654CE003EAFBF /* Supporting Files */,
 			);
 			path = Slash;
@@ -243,6 +246,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8F22105618C655E1003EAFBF /* cat.png in Resources */,
 				8F22103718C654CE003EAFBF /* Spaceship.png in Resources */,
 				8F22103918C654CE003EAFBF /* Images.xcassets in Resources */,
 				8F22102F18C654CE003EAFBF /* Main_iPad.storyboard in Resources */,
